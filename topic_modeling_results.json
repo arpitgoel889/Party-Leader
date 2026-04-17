@@ -1,0 +1,368 @@
+{
+  "leader_a": {
+    "name": "Nirmala Sitharaman",
+    "party": "BJP (Ruling)",
+    "n_docs": 15,
+    "topics": [
+      {
+        "id": 0,
+        "theme": "Economy & Taxation",
+        "words": [
+          "tax",
+          "expansion tax",
+          "revenues",
+          "highs",
+          "crossed record",
+          "tax collections",
+          "record",
+          "tax compliance",
+          "highs tax",
+          "direct"
+        ]
+      },
+      {
+        "id": 1,
+        "theme": "Energy & Environment",
+        "words": [
+          "energy",
+          "infrastructure",
+          "union",
+          "goals green",
+          "renewable energy",
+          "expanding rapidly",
+          "expenditure fiscal",
+          "pursued",
+          "capacity",
+          "achieve"
+        ]
+      },
+      {
+        "id": 2,
+        "theme": "Infrastructure",
+        "words": [
+          "highways",
+          "logistics cost",
+          "reduction",
+          "roads",
+          "logistics",
+          "nhai completing",
+          "investment roads",
+          "infrastructure investment",
+          "record",
+          "roads highways"
+        ]
+      },
+      {
+        "id": 4,
+        "theme": "Defence & Security",
+        "words": [
+          "defence",
+          "increased",
+          "bharat",
+          "health",
+          "promoted aatmanirbhar",
+          "reducing dependence",
+          "national",
+          "health education",
+          "priority",
+          "priority ayushman"
+        ]
+      },
+      {
+        "id": 5,
+        "theme": "Welfare & Housing",
+        "words": [
+          "mantri awas",
+          "underprivileged",
+          "deficit",
+          "monetary fiscal",
+          "robust current",
+          "poor",
+          "remains stable",
+          "fiscal coordination",
+          "rupee",
+          "schemes"
+        ]
+      },
+      {
+        "id": 6,
+        "theme": "Manufacturing & Trade",
+        "words": [
+          "manufacturing",
+          "global",
+          "digital",
+          "trade",
+          "hub",
+          "transactions",
+          "negotiation exports",
+          "pli",
+          "sectors",
+          "pharmaceuticals textiles"
+        ]
+      }
+    ]
+  },
+  "leader_b": {
+    "name": "Raghav Chadha",
+    "party": "AAP (Opposition)",
+    "n_docs": 15,
+    "topics": [
+      {
+        "id": 0,
+        "theme": "Infrastructure",
+        "words": [
+          "taxpayer money",
+          "money",
+          "governance proves",
+          "public",
+          "network",
+          "zero",
+          "transparent deliver",
+          "critical metro",
+          "pollution",
+          "zero tolerance"
+        ]
+      },
+      {
+        "id": 1,
+        "theme": "Federalism & States Rights",
+        "words": [
+          "federal structure",
+          "equitable distribution",
+          "commission ensure",
+          "share taxes",
+          "finance commission",
+          "fair share",
+          "taxes finance",
+          "federal",
+          "distribution",
+          "fair"
+        ]
+      },
+      {
+        "id": 2,
+        "theme": "Economy & Taxation",
+        "words": [
+          "gst",
+          "farmer",
+          "punjab",
+          "structure",
+          "highs petrol",
+          "crushed",
+          "farmers",
+          "cut",
+          "laws",
+          "distress farm"
+        ]
+      },
+      {
+        "id": 3,
+        "theme": "Women & Safety",
+        "words": [
+          "free",
+          "women",
+          "bus",
+          "remain hands",
+          "units revolutionary",
+          "national",
+          "resident",
+          "women safety",
+          "medicines tests",
+          "public"
+        ]
+      },
+      {
+        "id": 4,
+        "theme": "Governance & Anti-Corruption",
+        "words": [
+          "jobs",
+          "youth",
+          "create jobs",
+          "wasted",
+          "opposition leaders",
+          "crisis failed",
+          "slogans",
+          "democracy",
+          "opposition",
+          "leaders"
+        ]
+      },
+      {
+        "id": 6,
+        "theme": "Education",
+        "words": [
+          "affecting ruling",
+          "issues affecting",
+          "education",
+          "ruling address",
+          "vehicular",
+          "improved",
+          "trained teachers",
+          "schools world",
+          "improved learning",
+          "pollution"
+        ]
+      }
+    ]
+  },
+  "comparison": {
+    "common": [
+      {
+        "theme": "Economy & Taxation",
+        "words_a": [
+          "tax",
+          "expansion tax",
+          "revenues",
+          "highs",
+          "crossed record",
+          "tax collections",
+          "record",
+          "tax compliance"
+        ],
+        "words_b": [
+          "gst",
+          "farmer",
+          "punjab",
+          "structure",
+          "highs petrol",
+          "crushed",
+          "farmers",
+          "cut"
+        ]
+      },
+      {
+        "theme": "Infrastructure",
+        "words_a": [
+          "highways",
+          "logistics cost",
+          "reduction",
+          "roads",
+          "logistics",
+          "nhai completing",
+          "investment roads",
+          "infrastructure investment"
+        ],
+        "words_b": [
+          "taxpayer money",
+          "money",
+          "governance proves",
+          "public",
+          "network",
+          "zero",
+          "transparent deliver",
+          "critical metro"
+        ]
+      }
+    ],
+    "only_a": [
+      {
+        "theme": "Energy & Environment",
+        "words": [
+          "energy",
+          "infrastructure",
+          "union",
+          "goals green",
+          "renewable energy",
+          "expanding rapidly",
+          "expenditure fiscal",
+          "pursued"
+        ]
+      },
+      {
+        "theme": "Defence & Security",
+        "words": [
+          "defence",
+          "increased",
+          "bharat",
+          "health",
+          "promoted aatmanirbhar",
+          "reducing dependence",
+          "national",
+          "health education"
+        ]
+      },
+      {
+        "theme": "Welfare & Housing",
+        "words": [
+          "mantri awas",
+          "underprivileged",
+          "deficit",
+          "monetary fiscal",
+          "robust current",
+          "poor",
+          "remains stable",
+          "fiscal coordination"
+        ]
+      },
+      {
+        "theme": "Manufacturing & Trade",
+        "words": [
+          "manufacturing",
+          "global",
+          "digital",
+          "trade",
+          "hub",
+          "transactions",
+          "negotiation exports",
+          "pli"
+        ]
+      }
+    ],
+    "only_b": [
+      {
+        "theme": "Federalism & States Rights",
+        "words": [
+          "federal structure",
+          "equitable distribution",
+          "commission ensure",
+          "share taxes",
+          "finance commission",
+          "fair share",
+          "taxes finance",
+          "federal"
+        ]
+      },
+      {
+        "theme": "Women & Safety",
+        "words": [
+          "free",
+          "women",
+          "bus",
+          "remain hands",
+          "units revolutionary",
+          "national",
+          "resident",
+          "women safety"
+        ]
+      },
+      {
+        "theme": "Governance & Anti-Corruption",
+        "words": [
+          "jobs",
+          "youth",
+          "create jobs",
+          "wasted",
+          "opposition leaders",
+          "crisis failed",
+          "slogans",
+          "democracy"
+        ]
+      },
+      {
+        "theme": "Education",
+        "words": [
+          "affecting ruling",
+          "issues affecting",
+          "education",
+          "ruling address",
+          "vehicular",
+          "improved",
+          "trained teachers",
+          "schools world"
+        ]
+      }
+    ],
+    "overlap_pct": 33
+  },
+  "interpretation": "The topic modeling analysis reveals moderate overlap (33%) between Nirmala Sitharaman (BJP (Ruling)) and Raghav Chadha (AAP (Opposition)). Both leaders address Economy & Taxation, Infrastructure, reflecting shared national concerns. Nirmala focuses distinctively on Energy & Environment, Defence & Security, Welfare & Housing, reflecting the ruling government's developmental agenda. Raghav uniquely raises Federalism & States Rights, Women & Safety, Governance & Anti-Corruption, highlighting the opposition's focus on governance, accountability, and social equity. The divergence in topics reflects fundamentally different political priorities: the ruling party emphasises macro-economic growth and infrastructure, while the opposition focuses on local delivery, rights, and accountability."
+}
